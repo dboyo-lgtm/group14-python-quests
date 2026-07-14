@@ -7,4 +7,3 @@ Members:
 3. David Boyo
 4. Craig David
 5. David Auriel
-6.Teivel
